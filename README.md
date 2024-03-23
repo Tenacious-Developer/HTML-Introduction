@@ -1,2 +1,2 @@
 # HTML 
-- A detailed Content on HTML With Small Project.
+Detailed Content on HTML With Small Project
